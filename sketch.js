@@ -5,6 +5,7 @@ var music;
 
 function preload(){
     // load sound here
+    music=loadSound("music.mp3")
 }
 
 
